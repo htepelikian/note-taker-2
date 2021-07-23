@@ -27,6 +27,7 @@ Alternative link:
 
 <a href ="https://sheltered-fortress-29761.herokuapp.com/">https://sheltered-fortress-29761.herokuapp.com/</a>
 
+<img width="1209" alt="Screen Shot 2021-07-23 at 12 20 13 PM" src="https://user-images.githubusercontent.com/85534144/126831169-319f3c5b-b9c6-4a14-ba21-e7578007b84e.png">
 
 ## Built With
 
