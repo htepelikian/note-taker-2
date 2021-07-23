@@ -5,7 +5,7 @@ const path = require("path");
 const notes = require("./db/db.json");
 const uuid = require('./helpers/uuid');
 
-//Port and express 
+//Establish port and express 
 const PORT = process.env.PORT || 3001
 const app = express();
 
@@ -15,7 +15,7 @@ app.use(express.urlencoded({ extended: true}));
 
 app.use(express.static('public'));
 
-//GET routes
+//Establish GET routes
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, '/public/index.html'));
   });
