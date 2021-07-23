@@ -1,24 +1,14 @@
 {
-  "name": "note-taker-2",
+  "name": "note-taker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Hripsime Tepelikian",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/htepelikian/note-taker-2.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/htepelikian/note-taker-2/issues"
-  },
-  "homepage": "https://github.com/htepelikian/note-taker-2#readme"
+  }
 }
