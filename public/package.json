@@ -1,14 +1,11 @@
 {
-  "name": "note-taker-2",
+  "name": "public",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hripsime Tepelikian",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+  "license": "ISC"
 }
