@@ -2,7 +2,14 @@
 
 WELCOME TO THE NOTE TAKER!
 The note-taker-2 is an application used to take notes of all kinds. This allows the user to create and save notes to have on hand. Users are also able to delete notes (yay!) 
+
 <img width="1209" alt="Screen Shot 2021-07-23 at 12 20 13 PM" src="https://user-images.githubusercontent.com/85534144/126831169-319f3c5b-b9c6-4a14-ba21-e7578007b84e.png">
+
+<img width="1207" alt="Screen Shot 2021-07-23 at 12 20 24 PM" src="https://user-images.githubusercontent.com/85534144/126831287-ceb758f7-46f8-4d50-bda9-5416a69a323b.png">
+
+
+<img width="1204" alt="Screen Shot 2021-07-23 at 12 21 20 PM" src="https://user-images.githubusercontent.com/85534144/126831302-45901967-63ea-421d-ad50-2cf517848962.png">
+
 
 ## Installation
 
