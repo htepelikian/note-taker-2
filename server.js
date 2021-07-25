@@ -15,12 +15,12 @@ app.use(express.urlencoded({ extended: true}));
 
 app.use(express.static('public'));
 
-//Establish GET routes
+//GET routes
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, '/public/index.html'));
   });
  
-// GET route to get the notes html
+// GET route for notes html
 app.get('/notes', (req, res) => {
     res.sendFile(path.join(__dirname, '/public/notes.html'));
 })  
@@ -67,7 +67,7 @@ app.post('/api/notes', (req, res) => {
     }
 })
 
-// Delete function should work the same way as POST just need to filter out the selected note
+// Delete function BONUS
 app.delete('/api/notes/:id', (req, res) => {
     fs.readFile('./db/db.json', 'utf8', (err, data) => {
         if (err) {
